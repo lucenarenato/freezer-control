@@ -267,6 +267,9 @@ Estrutura de Rotas Necessárias:
 
 https://youtu.be/-Jf9hgt-Fj4?list=PLbjKo3xK3gjcOz9Ocn3H6aTtTRBypCAaA&t=509
 
+### Encontramos o melhor projeto Laravel TALL Stack! 🔥🚀 [LIVE] #programacao #php #python
+- https://www.youtube.com/live/W0OY2alwo8k
+
 ---
 ### :sparkles: Contribuidores
 <table>
